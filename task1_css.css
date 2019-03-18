@@ -1,0 +1,16 @@
+h3 {font-family:"Trebuchet MS",sans-serif;}
+button {font-family:"Trebuchet MS",sans-serif; font-size: 100%}
+p{font-family:"Trebuchet MS",sans-serif; font-size: 120%}
+table {
+  font-family:"Trebuchet MS",sans-serif;
+  border-collapse: collapse;
+  width: 300px
+}
+
+
+th, td {
+  text-align: center;
+  padding: 8px;
+}
+
+tr:nth-child(even) {background-color: #C0C0C0;}
