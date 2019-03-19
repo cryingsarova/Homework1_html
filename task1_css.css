@@ -1,16 +1,18 @@
-h3 {font-family:"Trebuchet MS",sans-serif;}
-button {font-family:"Trebuchet MS",sans-serif; font-size: 100%}
-p{font-family:"Trebuchet MS",sans-serif; font-size: 120%}
-table {
-  font-family:"Trebuchet MS",sans-serif;
-  border-collapse: collapse;
-  width: 300px
+
+.text {font-family:"Trebuchet MS",sans-serif;}
+.btn { font-size: 100%}
+.inp { font-size: 130%}
+
+.table1{	border: 1px solid black;
+border-collapse: collapse;
 }
+.row1,.td1{
+	
+    width: 150px;
+	border: 1px solid black;
+	text-align: center;
+	padding: 8px;
 
-
-th, td {
-  text-align: center;
-  padding: 8px;
+	
 }
-
-tr:nth-child(even) {background-color: #C0C0C0;}
+.row1:nth-child(even) {background-color: #C0C0C0;}
